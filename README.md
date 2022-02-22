@@ -1,4 +1,4 @@
-# minxie.app
+# minxie.app (repo will remain blank until test site is up)
 Minxie's Web3 Content Subscription Platform
 minxie.app
 
